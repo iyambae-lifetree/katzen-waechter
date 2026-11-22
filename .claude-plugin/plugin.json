@@ -1,0 +1,1 @@
+{ "name": "katzen-waechter", "version": "0.1.0", "description": "Kater Mikesch auf der Fensterbank: Die Kerze zeigt, wie voll der Chat ist, der Napf, wie viel vom Limit übrig ist, und Mikesch schaut auf, wenn Claude auf dich wartet", "types": "./types/index.d.ts" }

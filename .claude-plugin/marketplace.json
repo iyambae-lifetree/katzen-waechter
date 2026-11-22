@@ -1,0 +1,5 @@
+{
+  "name": "katzen-waechter",
+  "owner": { "name": "IYAMBAE" },
+  "plugins": [{ "name": "katzen-waechter", "source": "./" }]
+}
